@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/front-end-vincent/static/css/main.47894fed.css",
-    "main.js": "/front-end-vincent/static/js/main.9ac0d9c2.js",
+    "main.css": "/front-end-vincent/static/css/main.9f9bbcb7.css",
+    "main.js": "/front-end-vincent/static/js/main.26081c5c.js",
     "static/js/453.ff74ab57.chunk.js": "/front-end-vincent/static/js/453.ff74ab57.chunk.js",
     "static/media/background.mp4": "/front-end-vincent/static/media/background.4dbac61daea801e9f575.mp4",
     "static/media/cv.pdf": "/front-end-vincent/static/media/cv.6e43bd04309dc5593294.pdf",
     "static/media/logo.png": "/front-end-vincent/static/media/logo.63988f2d7f163812631e.png",
+    "static/media/Alvaro-Emiliano.webp": "/front-end-vincent/static/media/Alvaro-Emiliano.d38b0eac220b856425b7.webp",
+    "static/media/Santiago-Morales.webp": "/front-end-vincent/static/media/Santiago-Morales.c25dc12c0906ff2925f7.webp",
+    "static/media/Olin.webp": "/front-end-vincent/static/media/Olin.0a2678da40fa7e0ada15.webp",
+    "static/media/Jose-Emilio.webp": "/front-end-vincent/static/media/Jose-Emilio.055cc4a48bdaf9c75af9.webp",
+    "static/media/pablo-galan.webp": "/front-end-vincent/static/media/pablo-galan.27e0bf8e9cee31aa7372.webp",
+    "static/media/Fernanda-Bada.webp": "/front-end-vincent/static/media/Fernanda-Bada.aafa57ef5cf3d7b89f2e.webp",
+    "static/media/Joaquin-Martinez.webp": "/front-end-vincent/static/media/Joaquin-Martinez.2b3cc92cba183c013546.webp",
+    "static/media/Anaid-Scandon.webp": "/front-end-vincent/static/media/Anaid-Scandon.1fe38e8d608e9fd8a024.webp",
+    "static/media/Ana-Galan.webp": "/front-end-vincent/static/media/Ana-Galan.9b8943c97764ebe61791.webp",
     "index.html": "/front-end-vincent/index.html",
-    "main.47894fed.css.map": "/front-end-vincent/static/css/main.47894fed.css.map",
-    "main.9ac0d9c2.js.map": "/front-end-vincent/static/js/main.9ac0d9c2.js.map",
+    "main.9f9bbcb7.css.map": "/front-end-vincent/static/css/main.9f9bbcb7.css.map",
+    "main.26081c5c.js.map": "/front-end-vincent/static/js/main.26081c5c.js.map",
     "453.ff74ab57.chunk.js.map": "/front-end-vincent/static/js/453.ff74ab57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47894fed.css",
-    "static/js/main.9ac0d9c2.js"
+    "static/css/main.9f9bbcb7.css",
+    "static/js/main.26081c5c.js"
   ]
 }
