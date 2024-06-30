@@ -12,6 +12,7 @@ const Nosotros = () => {
     <section className="nosotros">
       <div className="container">
         <div className='heading-container'>
+            
             <h1 className="heading">Manifiesto</h1>
             <button className="semblanzas-button" onClick={handleButtonClick}>Semblanzas</button>
         </div>

@@ -44,7 +44,7 @@ p {
 }
 
 .semblanzas-button {
-  display: block;
+  display: flex;
   margin: auto 0 2rem auto;
   padding: 0.7rem 1.5rem;
   background-color: rgb(254 97 97);
@@ -63,3 +63,26 @@ p {
 .semblanzas-button:hover {
   background-color: #e65a50; /* Adjust hover color if necessary */
 }
+
+@media (max-width: 768px) {
+    .container {
+      margin: 60px auto;
+    }
+  
+    .heading {
+      font-size: 2.5rem;
+    }
+  
+    .quote {
+      font-size: 1rem;
+    }
+  
+    p {
+      font-size: 0.9rem;
+    }
+  
+    .semblanzas-button {
+      font-size: 0.9rem;
+      padding: 0.5rem 1rem;
+    }
+  }
