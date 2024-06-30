@@ -5,8 +5,10 @@ import Nosotros from './components/Nosotros';
 // import Proyectos from './components/Proyectos';
 // import Ecos from './components/Ecos';
 // import ArchivoDeSuenos from './components/ArchivoDeSuenos';
-// import Contacto from './components/Contacto';
+import Contact from './components/Contact';
 import Navbar from './components/Navbar';
+import Semblanzas from './components/Semblanzas';
+
 
 function App() {
   return (
@@ -18,7 +20,8 @@ function App() {
         {/* <Route path="/proyectos" component={Proyectos} /> */}
         {/* <Route path="/ecos" component={Ecos} /> */}
         {/* <Route path="/archivo-de-suenos" component={ArchivoDeSuenos} /> */}
-        {/* <Route path="/contacto" component={Contacto} /> */}
+        <Route path="/semblanzas" element={<Semblanzas />} />
+        <Route path="/contacto" element={<Contact />} />
       </Routes>
     </Router>
   );
