@@ -2,11 +2,16 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0;url=/" />
     <script>
-      // This script redirects any 404 route to the root route,
-      // allowing the React Router to handle the route and display the correct component.
-      window.location.replace('/front-end-vincent' + window.location.pathname + window.location.search);
+      (function() {
+        // Check if the current path is already at the root
+        var currentPath = window.location.pathname;
+        var rootPath = '/front-end-vincent';
+        if (currentPath !== rootPath) {
+          // Redirect to the root path
+          window.location.replace(rootPath + currentPath + window.location.search);
+        }
+      })();
     </script>
   </head>
   <body>
