@@ -1,11 +1,18 @@
 {
   "files": {
-    "main.css": "/front-end-vincent/static/css/main.9f9bbcb7.css",
-    "main.js": "/front-end-vincent/static/js/main.26081c5c.js",
+    "main.css": "/front-end-vincent/static/css/main.48bfe435.css",
+    "main.js": "/front-end-vincent/static/js/main.c45518f5.js",
     "static/js/453.ff74ab57.chunk.js": "/front-end-vincent/static/js/453.ff74ab57.chunk.js",
     "static/media/background.mp4": "/front-end-vincent/static/media/background.4dbac61daea801e9f575.mp4",
+    "static/media/GUERRA-SIGUE.webp": "/front-end-vincent/static/media/GUERRA-SIGUE.7bebebbb8aafb9f0aed1.webp",
+    "static/media/Klondike.webp": "/front-end-vincent/static/media/Klondike.2ca6a8481f5986143858.webp",
     "static/media/cv.pdf": "/front-end-vincent/static/media/cv.6e43bd04309dc5593294.pdf",
+    "static/media/hokusai.webp": "/front-end-vincent/static/media/hokusai.0fc9b30e837ed332b2d3.webp",
     "static/media/logo.png": "/front-end-vincent/static/media/logo.63988f2d7f163812631e.png",
+    "static/media/tanque.webp": "/front-end-vincent/static/media/tanque.8b9297fb03659f3e90eb.webp",
+    "static/media/despedida.webp": "/front-end-vincent/static/media/despedida.dba76aae598954e7d5ba.webp",
+    "static/media/amor.webp": "/front-end-vincent/static/media/amor.67c40efb30c193a9a742.webp",
+    "static/media/mesa.webp": "/front-end-vincent/static/media/mesa.e0a4c0f6e9d67869c91f.webp",
     "static/media/Alvaro-Emiliano.webp": "/front-end-vincent/static/media/Alvaro-Emiliano.d38b0eac220b856425b7.webp",
     "static/media/Santiago-Morales.webp": "/front-end-vincent/static/media/Santiago-Morales.c25dc12c0906ff2925f7.webp",
     "static/media/Olin.webp": "/front-end-vincent/static/media/Olin.0a2678da40fa7e0ada15.webp",
@@ -16,12 +23,12 @@
     "static/media/Anaid-Scandon.webp": "/front-end-vincent/static/media/Anaid-Scandon.1fe38e8d608e9fd8a024.webp",
     "static/media/Ana-Galan.webp": "/front-end-vincent/static/media/Ana-Galan.9b8943c97764ebe61791.webp",
     "index.html": "/front-end-vincent/index.html",
-    "main.9f9bbcb7.css.map": "/front-end-vincent/static/css/main.9f9bbcb7.css.map",
-    "main.26081c5c.js.map": "/front-end-vincent/static/js/main.26081c5c.js.map",
+    "main.48bfe435.css.map": "/front-end-vincent/static/css/main.48bfe435.css.map",
+    "main.c45518f5.js.map": "/front-end-vincent/static/js/main.c45518f5.js.map",
     "453.ff74ab57.chunk.js.map": "/front-end-vincent/static/js/453.ff74ab57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f9bbcb7.css",
-    "static/js/main.26081c5c.js"
+    "static/css/main.48bfe435.css",
+    "static/js/main.c45518f5.js"
   ]
 }
