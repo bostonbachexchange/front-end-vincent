@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './Semblanzas.module.css';
 import emiliano from '../assets/Alvaro-Emiliano.webp';
+import alvar from '../assets/Emiliano-Alvar.webp';
 import olin from '../assets/Olin.webp';
 import joseEmilio from '../assets/Jose-Emilio.webp';
 import anaGalan from '../assets/Ana-Galan.webp';
@@ -64,7 +65,7 @@ const currentProfiles = [
         Pasante de la carrera de Filosofía en la UNAM. Invitado como expositor en la sesión <em>“Teatro del oprimido”</em> en la universidad Salamon-Allys, en Berlín, y coordinador del taller de teatro político para la asociación Amaro Foro: Sinti und Roma, también en Berlín. Ha publicado diversos artículos en las revistas de filosofía <em>Reflexiones Marginales</em>, <em>Theoria</em> y la revista del Seminario de Metafísica de la FFyL-UNAM. Fue presentador del libro <em>Heidegger y los judíos</em>, de Donatella di Cesare, para la editorial Gedisa. En el ámbito teatral, cursó talleres de actuación con Mariana Gándara, Antonio Peñuñuri, Laura Furlán y Diana Sedano. Protagonizó la tesis de titulación del CUEC <em>La noche oscura del alma</em>, y la cápsula <em>Nocturna rosa</em> para TV UNAM. Es miembro fundador de la compañía Vincent Company para actores y no-actores fracasados, donde ha protagonizado las obras <em>Y la guerra sigue</em> (ganadora del XXVI FITU) y <em>Perro Muerto en Klondike</em>. Su actuación en <em>Y la guerra sigue</em> fue meritoria de la mención a Mejor actuación masculina, en el XXVI FITU. Formó parte del elenco de la obra <em>Extirpados</em>, bajo la dirección de Antonio Peñuñuri y <em>Tal vez esto no se trata de amor</em>, bajo la dirección de Gabriela Guraieb, obra que también co-escribió. Fue miembro del elenco de <em>Titus</em>, bajo la dirección de Angélica Rogel, en el Teatro Helénico, y miembro del elenco de la obra <em>La ciencia de la despedida</em>, ganadora de la Coproducción 2020 del Teatro La Capilla, estrenada en marzo del 2020.
       </>
     ),
-    image: emiliano
+    image: alvar
   },
   {
     name: 'PABLO GALÁN SOUTO',
@@ -141,7 +142,7 @@ const Semblanzas = () => {
             </div>
           </div>
         ))}
-        <h1 className={styles.heading}>Former Participants</h1>
+        <h1 className={styles.heading}>Antiguos participantes</h1>
         {formerProfiles.map((profile, index) => (
           <div className={styles.profile} key={index}>
             <img src={profile.image} alt={profile.name} className={styles.profileImage} />
