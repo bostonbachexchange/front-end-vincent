@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/front-end-vincent/static/css/main.f0a658b2.css",
+    "main.css": "/front-end-vincent/static/css/main.18c18da6.css",
     "main.js": "/front-end-vincent/static/js/main.a64f3b5d.js",
     "static/js/453.ff74ab57.chunk.js": "/front-end-vincent/static/js/453.ff74ab57.chunk.js",
     "static/media/background.mp4": "/front-end-vincent/static/media/background.4dbac61daea801e9f575.mp4",
@@ -24,12 +24,12 @@
     "static/media/Anaid-Scandon.webp": "/front-end-vincent/static/media/Anaid-Scandon.1fe38e8d608e9fd8a024.webp",
     "static/media/Ana-Galan.webp": "/front-end-vincent/static/media/Ana-Galan.9b8943c97764ebe61791.webp",
     "index.html": "/front-end-vincent/index.html",
-    "main.f0a658b2.css.map": "/front-end-vincent/static/css/main.f0a658b2.css.map",
+    "main.18c18da6.css.map": "/front-end-vincent/static/css/main.18c18da6.css.map",
     "main.a64f3b5d.js.map": "/front-end-vincent/static/js/main.a64f3b5d.js.map",
     "453.ff74ab57.chunk.js.map": "/front-end-vincent/static/js/453.ff74ab57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0a658b2.css",
+    "static/css/main.18c18da6.css",
     "static/js/main.a64f3b5d.js"
   ]
 }
