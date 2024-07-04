@@ -8,6 +8,7 @@ import Proyectos from './components/Proyectos';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar';
 import Semblanzas from './components/Semblanzas';
+import SobreElProyecto from './components/SobreElProyecto';
 
 const basename = process.env.PUBLIC_URL;
 
@@ -21,6 +22,7 @@ function App() {
         <Route path="/proyectos" element={<Proyectos />} />
         {/* <Route path="/ecos" component={Ecos} /> */}
         {/* <Route path="/archivo-de-suenos" component={ArchivoDeSuenos} /> */}
+        <Route path="/archivo-de-suenos/sobre-el-proyecto" element={<SobreElProyecto />} />
         <Route path="/semblanzas" element={<Semblanzas />} />
         <Route path="/contacto" element={<Contact />} />
       </Routes>
