@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/front-end-vincent/static/css/main.18c18da6.css",
-    "main.js": "/front-end-vincent/static/js/main.a64f3b5d.js",
+    "main.css": "/front-end-vincent/static/css/main.9b263f28.css",
+    "main.js": "/front-end-vincent/static/js/main.b61ddf08.js",
     "static/js/453.ff74ab57.chunk.js": "/front-end-vincent/static/js/453.ff74ab57.chunk.js",
     "static/media/background.mp4": "/front-end-vincent/static/media/background.4dbac61daea801e9f575.mp4",
     "static/media/GUERRA-SIGUE.webp": "/front-end-vincent/static/media/GUERRA-SIGUE.7bebebbb8aafb9f0aed1.webp",
@@ -12,7 +12,11 @@
     "static/media/tanque.webp": "/front-end-vincent/static/media/tanque.8b9297fb03659f3e90eb.webp",
     "static/media/despedida.webp": "/front-end-vincent/static/media/despedida.dba76aae598954e7d5ba.webp",
     "static/media/amor.webp": "/front-end-vincent/static/media/amor.67c40efb30c193a9a742.webp",
+    "static/media/animal.gif": "/front-end-vincent/static/media/animal.83f3de00cf4da7628757.gif",
+    "static/media/logohead.webp": "/front-end-vincent/static/media/logohead.88bb6a76f429b905c1e9.webp",
     "static/media/mesa.webp": "/front-end-vincent/static/media/mesa.e0a4c0f6e9d67869c91f.webp",
+    "static/media/CarolinaLopez.png": "/front-end-vincent/static/media/CarolinaLopez.ec82819697edd1ce8180.png",
+    "static/media/circle.gif": "/front-end-vincent/static/media/circle.cb00ad303d0436bb73c3.gif",
     "static/media/Alvaro-Emiliano.webp": "/front-end-vincent/static/media/Alvaro-Emiliano.d38b0eac220b856425b7.webp",
     "static/media/Santiago-Morales.webp": "/front-end-vincent/static/media/Santiago-Morales.c25dc12c0906ff2925f7.webp",
     "static/media/Emiliano-Alvar.webp": "/front-end-vincent/static/media/Emiliano-Alvar.e5faeac5218ef2c3a387.webp",
@@ -21,15 +25,17 @@
     "static/media/pablo-galan.webp": "/front-end-vincent/static/media/pablo-galan.27e0bf8e9cee31aa7372.webp",
     "static/media/Fernanda-Bada.webp": "/front-end-vincent/static/media/Fernanda-Bada.aafa57ef5cf3d7b89f2e.webp",
     "static/media/Joaquin-Martinez.webp": "/front-end-vincent/static/media/Joaquin-Martinez.2b3cc92cba183c013546.webp",
+    "static/media/tuprofile.webp": "/front-end-vincent/static/media/tuprofile.b92c9295dc5700ca7c92.webp",
     "static/media/Anaid-Scandon.webp": "/front-end-vincent/static/media/Anaid-Scandon.1fe38e8d608e9fd8a024.webp",
     "static/media/Ana-Galan.webp": "/front-end-vincent/static/media/Ana-Galan.9b8943c97764ebe61791.webp",
+    "static/media/arandaortega.webp": "/front-end-vincent/static/media/arandaortega.b7802dffa6a4fa4dd192.webp",
     "index.html": "/front-end-vincent/index.html",
-    "main.18c18da6.css.map": "/front-end-vincent/static/css/main.18c18da6.css.map",
-    "main.a64f3b5d.js.map": "/front-end-vincent/static/js/main.a64f3b5d.js.map",
+    "main.9b263f28.css.map": "/front-end-vincent/static/css/main.9b263f28.css.map",
+    "main.b61ddf08.js.map": "/front-end-vincent/static/js/main.b61ddf08.js.map",
     "453.ff74ab57.chunk.js.map": "/front-end-vincent/static/js/453.ff74ab57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c18da6.css",
-    "static/js/main.a64f3b5d.js"
+    "static/css/main.9b263f28.css",
+    "static/js/main.b61ddf08.js"
   ]
 }
