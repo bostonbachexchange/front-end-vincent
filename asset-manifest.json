@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/front-end-vincent/static/css/main.9b263f28.css",
-    "main.js": "/front-end-vincent/static/js/main.b61ddf08.js",
+    "main.css": "/front-end-vincent/static/css/main.a6c37399.css",
+    "main.js": "/front-end-vincent/static/js/main.bb1d5a08.js",
     "static/js/453.ff74ab57.chunk.js": "/front-end-vincent/static/js/453.ff74ab57.chunk.js",
     "static/media/background.mp4": "/front-end-vincent/static/media/background.4dbac61daea801e9f575.mp4",
     "static/media/GUERRA-SIGUE.webp": "/front-end-vincent/static/media/GUERRA-SIGUE.7bebebbb8aafb9f0aed1.webp",
@@ -30,12 +30,12 @@
     "static/media/Ana-Galan.webp": "/front-end-vincent/static/media/Ana-Galan.9b8943c97764ebe61791.webp",
     "static/media/arandaortega.webp": "/front-end-vincent/static/media/arandaortega.b7802dffa6a4fa4dd192.webp",
     "index.html": "/front-end-vincent/index.html",
-    "main.9b263f28.css.map": "/front-end-vincent/static/css/main.9b263f28.css.map",
-    "main.b61ddf08.js.map": "/front-end-vincent/static/js/main.b61ddf08.js.map",
+    "main.a6c37399.css.map": "/front-end-vincent/static/css/main.a6c37399.css.map",
+    "main.bb1d5a08.js.map": "/front-end-vincent/static/js/main.bb1d5a08.js.map",
     "453.ff74ab57.chunk.js.map": "/front-end-vincent/static/js/453.ff74ab57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b263f28.css",
-    "static/js/main.b61ddf08.js"
+    "static/css/main.a6c37399.css",
+    "static/js/main.bb1d5a08.js"
   ]
 }
