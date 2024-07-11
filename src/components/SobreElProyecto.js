@@ -9,7 +9,7 @@ import MapProfile from '../assets/tuprofile.webp';
 
 const SobreElProyecto = () => {
   return (
-    <section className={styles.sobreElProyecto}>
+    <div className={styles.sobreElProyecto}>
       <div className={styles.container}>
         <img src={titleGif} alt="Escribe tu sueño" className={styles.titleGif} />
         <div className={styles.content}>
@@ -28,37 +28,37 @@ const SobreElProyecto = () => {
         </div>
         <div className={styles.links}>
           <a href="/busca-un-sueno">Busca un sueño</a>
+          <a href="/">Inicio</a>
           <a href="/escribe-tu-sueno">Escribe tu sueño</a>
           <a href="/instrucciones">Instrucciones</a>
-          <a href="/">Inicio</a>
         </div>
         <div className={styles.team}>
           <div className={styles.teamMember}>
             <img src={CarolinaLopez} alt="Carolina López" />
-            <p>Carolina López</p>
-            <p>Diseño web y producción</p>
+            <p className={styles.teamMemberName}>Carolina López</p>
+            <p className={styles.teamMemberTitle}>Diseño web y producción</p>
           </div>
           <div className={styles.teamMember}>
             <img src={LogoHead} alt="Vincent Company" />
-            <p>Vincent Company</p>
-            <p>Plataforma y colaboradores</p>
+            <p className={styles.teamMemberName}>Vincent Company</p>
+            <p className={styles.teamMemberTitle}>Plataforma y colaboradores</p>
           </div>
           <div className={styles.teamMember}>
             <img src={ArandaOrtega} alt="Aranda Ortega" />
-            <p>Aranda Ortega</p>
-            <p>Diseño visual</p>
+            <p className={styles.teamMemberName}>Aranda Ortega</p>
+            <p className={styles.teamMemberTitle}>Diseño visual</p>
           </div>
           <div className={styles.teamMember}>
             <img src={MapProfile} alt="Tú" />
-            <p>Tú</p>
-            <p>Escritor</p>
+            <p className={styles.teamMemberName}>Tú</p>
+            <p className={styles.teamMemberTitle}>Escritor</p>
           </div>
         </div>
         <div>
-            <p>Con un agradecimiento especial a Santiago Martínez por su colaboración en la programación web</p>
+            <p className={styles.teamMemberTitle}>Con un agradecimiento especial a Santiago Martínez por su colaboración en la programación web</p>
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 

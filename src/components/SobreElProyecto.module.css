@@ -4,7 +4,6 @@
     font-family: 'Roboto', sans-serif;
     padding: 2rem;
     position: relative;
-
   }
   
   .titleGif {
@@ -85,8 +84,6 @@
     color: #fff; /* Adjust text color for visibility */
   }
   
-  
-  
   .team {
     display: flex;
     justify-content: space-around;
@@ -98,8 +95,14 @@
   .teamMember {
     text-align: center;
     margin: 1rem;
+    /* font-weight: 700; */
   }
-  
+  .teamMemberName{
+    font-weight: 700;
+  }
+  .teamMemberTitle {
+    color: gainsboro;
+  }
   .teamMember img {
     /* width: 100px;
     height: 100px;
@@ -114,4 +117,66 @@
     margin-top: 0.5rem;
     text-align: center;
     /* border: 1px solid white; */
+  }
+
+  @media (max-width: 768px) {
+    .sobreElProyecto {
+      margin-top: 0;
+      margin: 0;
+      padding-right: 0px;
+      padding-left: 0px;
+      position: relative;
+    }
+    .container {
+      /* margin: 0px; */
+      padding: 0px;
+    }
+    .content {
+      /* display: block; */
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column-reverse;
+    }
+
+    .content article {
+      /* margin-bottom: 1rem; */
+      text-align: center;
+      width: 100%;
+      /* line-height: 0.5; */
+  
+    }
+    p {
+      font-size: 18px;
+    }
+    .animalGif {
+      /* width: 100%; */
+      position: relative;
+      margin: auto;
+      padding: 0;
+      /* border: 1px solid white; */
+      /* background-size: cover; */
+      /* height: 40px; */
+      width: 100%;
+    }
+    .links{
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0px;
+      padding: 0px;
+      /* border: 1px solid white; */
+      width: 100%;
+      justify-content: space-evenly;
+    }
+    .links a{
+      display: flex;
+      margin: 0;
+      font-size: 1.2rem;
+      /* width: 45%; */
+      /* border: 1px solid blanchedalmond; */
+
+      /* gap: 2rem; */
+      /* margin-bottom: 2rem; */
+    }
   }
