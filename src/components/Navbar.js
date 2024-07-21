@@ -3,21 +3,26 @@ import { Link } from 'react-router-dom';
 import './Navbar.css';
 import logo from '../assets/logo.png';
 
-const Navbar = () => {
+const Navbar = ({ isVisible }) => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-
+  
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
   };
-
+  
   const closeMobileMenu = () => {
     setIsMobileMenuOpen(false);
   };
-
+  
   const toggleDropdown = () => {
     setIsDropdownOpen(!isDropdownOpen);
   };
+
+  if (!isVisible) {
+    return null;
+  }  
+  
   return (
     <nav className="navbar">
       <div>

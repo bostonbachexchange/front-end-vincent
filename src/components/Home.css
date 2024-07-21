@@ -32,6 +32,11 @@
   border-radius: 5px;
 }
 
+.hidden-navbar {
+  display: none;
+}
+
+
 @media (min-width: 600px) {
   .logo {
     max-width: 200px;

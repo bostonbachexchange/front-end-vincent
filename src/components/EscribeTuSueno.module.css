@@ -1,0 +1,103 @@
+.escribeTuSueno {
+    padding: 2rem;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1rem;
+    /* background-color: rgba(255, 255, 255, 0.8);  */
+    /* Optional: to make text more readable */
+    background-image: url('../assets/backgroundEscribeTuSueno.webp'); /* replace with the correct path */
+    border-radius: 8px;
+  }
+  
+  .row {
+    max-width: 80%;
+    display: flex;
+    align-items: center;
+}
+  .titleImage {
+    height: auto;
+    margin-bottom: 1rem;
+  }
+
+  .inicioButton {
+    padding: 0.6rem 2.8rem;
+    background-color: rgba(255, 255, 255, 0.9);
+
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .formGroup {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  
+  label {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  input,
+  textarea {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+  
+  input:focus,
+  textarea:focus {
+    outline: none;
+    border-color: #333;
+  }
+  
+  .submitButton {
+    padding: 0.75rem 2rem;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submitButton:hover {
+    background-color: #555;
+  }
+  
+  @media (max-width: 600px) {
+    .inicioButton {
+      display: block;
+      /* position: absolute; */
+      top: 1rem;
+      right: 1rem;
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      /* color: #fff; */
+      /* background-color: #333; */
+      background-color: rgba(255, 255, 255, 0.9);
+
+      border: none;
+      /* border-radius: 4px; */
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+  
+    .inicioButton:hover {
+      background-color: #555;
+    }
+  }
+  
